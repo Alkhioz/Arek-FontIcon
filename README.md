@@ -1,2 +1,2 @@
-# arek font icons
-This was just a simple icon font set, but after a little research i decide to better make a svg icon sprite
+# Arek font icons
+The implementation of a custom made font-icon set on a website.
